@@ -15,7 +15,7 @@ Other indexers active on the same subgraph in this time period have correctly su
 
 <img width="1212" alt="image" src="https://github.com/user-attachments/assets/270e3c5e-e7e3-44a2-9e98-f35b2b87f11c" />
 
-Could the indexer please provide information as to why the POI was used repeatedly during the time period from November 24 to December 4?
+**Could the indexer please provide information as to why the POI was used repeatedly during the time period from November 24 to December 4?**
 
 
 ## [GDR-23](https://forum.thegraph.com/t/request-for-information-about-disputes-gdr-23/6279)
@@ -38,7 +38,7 @@ The upgrade indexer and streamingfast have encountered errors, but other indexer
 <img width="1204" alt="image" src="https://github.com/user-attachments/assets/8ef9c78c-2c5e-4935-a86d-bce6340b2793" />
 <img width="1204" alt="image" src="https://github.com/user-attachments/assets/06d866ac-c1dc-4551-bd27-d222e4e2e7dc" />
 
-Could the indexer provide more information around why they repeatedly closed allocations with a duplicate POI despite no other indexer doing so on this subgraph?
+**Could the indexer provide more information around why they repeatedly closed allocations with a duplicate POI despite no other indexer doing so on this subgraph?**
 
 
 
