@@ -30,7 +30,7 @@ The indexer submitted 20 POIs that were not duplicate prior to that point. Howev
 The subgraph is in a healthy and synced state for 5 indexers:
 <img width="1352" alt="image" src="https://github.com/user-attachments/assets/de8723f1-d6db-46cf-8421-e86c563c3a7b" />
 
-The upgrade indexer and streamingfast have encountered errors, but other indexers active on the same subgraph in this time period have correctly submitted at least 35 non-duplicate POIs on this healthy subgraph: 
+The upgrade indexer and streamingfast have encountered errors, but other indexers active on the same subgraph in this time period have correctly submitted at least 35 non-duplicate POIs on this healthy subgraph, and no other indexer has ever submitted a duplicate POI on the subgraph:
 
 <img width="1198" alt="image" src="https://github.com/user-attachments/assets/42422954-0cad-4b7f-a006-739e0c0d03d9" />
 <img width="1215" alt="image" src="https://github.com/user-attachments/assets/e53d0a5d-9a2d-4ad5-93ec-f177de30e5e0" />
